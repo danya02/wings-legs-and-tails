@@ -1,5 +1,6 @@
 # English version of the text
 ## Английский вариант текста
+
 `0.07-0.10` **"Wings, Legs and Tails"**
 
 `0.14-0.18` *…In front of you is a hot desert. It has nearly no wildlife…*
@@ -12,7 +13,7 @@
 
 `1.01-1.04` *Griffin:* Hey, birdie, let's fly over there, there's a lot of food…
 
-`1.04-1.07` *Страус:* How much?
+`1.04-1.07` *Ostrich:* How much?
 
 `1.19-1.23` Hey, I said *fly*, not *run*…
 
