@@ -3,7 +3,7 @@
 
 `0.07-0.10` **"Wings, Legs and Tails"**
 
-`0.14-0.18` *…In front of you is a hot desert. It has nearly no wildlife…*
+`0.14-0.18` *…Lying in front of you is a hot desert. It has nearly no wildlife…*
 
 `0.19-0.23` *But lizards and insects can be found…*
 
@@ -19,7 +19,7 @@
 
 `1.25-1.27` Forgot how to fly, eh?
 
-`1.27-1,29` I never knew how…
+`1.27-1,29` I have never known how…
 
 `1.29-1.35` *"Don't know how - we'll teach ya, don't want to - we'll force ya"*… Takeoff!
 
@@ -39,7 +39,7 @@
 
 `2.30-2.33` Repeat, get some acceleration and fly!
 
-`2.33-2.36` We' e lare, all the good'll be gone!
+`2.33-2.36` We' re late, all the good'll be gone!
 
 `2.39-2.42` Off you go! Off the ostrich goes!
 
@@ -51,4 +51,4 @@
 
 `3.21-3.22` Heh, birdie…
 
-`3.25-3.28` Legs… or wings… Most important is the tail!
+`3.25-3.28` Legs… or wings… The tail is most important!
